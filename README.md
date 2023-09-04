@@ -43,7 +43,7 @@ Before you begin, ensure you have the following components ready:
 
    - Clone or download this project's repository to your computer.
 
-   - Open the Arduino sketch (`esp8266.ino`) from the project repository in the Arduino IDE.
+   - Open the Arduino sketch (`WiFi_code.ino`) from the project repository in the Arduino IDE.
 
    - Modify the following lines in the code to match your WiFi network credentials:
 
